@@ -14,6 +14,6 @@ print(HWID);
 
 Com isso retorna o HWID.
 
-brunin#0007
+zyx
 
 ![unknown](https://user-images.githubusercontent.com/72706297/129390163-f496c5d2-2483-46cf-aaf7-f5c31f8c6bf5.png)
